@@ -1,6 +1,6 @@
 # Welcome to DWFJR.com cyber-homebase for Dennis Fischer Jr. Entrepreneur & Technology consultant
 # Technological Independence and Freedom
-### Please pardon the dust you are exploring version 0.0.1 of the site! Many changes will come as time passes.
+### Please pardon the dust as you are exploring version 0.0.1 of the site! Many changes will come as time passes.
 
 ## Introduction
 
