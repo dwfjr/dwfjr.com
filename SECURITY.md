@@ -17,6 +17,7 @@ You, are my guest, and my goal is to treat you like a guest. With this in mind I
 ## Reporting a Vulnerability
 
 _Your mission, should you choose to accept it, is to help me improve this website to be the best tool for others and myself that it can be!_
+
 If you are reading this you probably have something for me to hear! I will be the first to admit that I'm new to the web design environment and in that light I would be happy to get feedback and input on whats working and whats not.
 I strongly believe in constructive criticism so if you have something to critique and help me improve please be my guest.
 The best type of feedback I can get looks like this:
@@ -28,4 +29,5 @@ And most importantly to me, resources I can review or people I can talk to to le
 These can be submitted via an email to support@dwfjr.com or via GitHub issues, whichever you are more comfortable and familiar with.
 Please be sure to note in the subject that this is a security related issue, I will work to get back to you within 48 hours if so marked.
 Thank you!
+
 _This message will self destruct..._
