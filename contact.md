@@ -1,6 +1,5 @@
 ---
 title: Contact Me
-permalink: /contact
 ---
 
 # Contact Information
