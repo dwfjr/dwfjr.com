@@ -10,7 +10,7 @@ My name is Dennis Fischer Jr. and I am fascinated by technology. Most of all I e
 ## Where are you?
 
 You are at the landing page for my site, my hope is that this will change and grow quickly as I build out what I am doing here, for now it's simple and to the point as I'm learning about what you, my guest, need; and how I can best serve you. Below you will find links to each of the active pages until I can build a normal menu (a trickier task than I imagined).
-Please do not hesitate to reach out with questions or suggestions, more information can currently be found on the [security](www.dwfjr.com/security_policy/) page.
+Please do not hesitate to reach out with questions or suggestions, more information can currently be found on the [security](/security_policy/) page.
 
 ## Additional Resources
-- [Security Policy](www.dwfjr.com/security_policy/)
+- [Security Policy](/security_policy/)
