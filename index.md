@@ -1,3 +1,7 @@
+---
+title: dwfjr.com
+---
+
 # I want to help you, stoke your curiosity, to build your own freedom in technology. And to give you the tools to introduce your Family and Friends to these concepts.
 
 ### Please pardon the dust as you are exploring version 0.0.1 of the site! Many changes will come as time passes.
