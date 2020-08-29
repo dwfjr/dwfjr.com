@@ -1,3 +1,7 @@
+layout: page
+title: "Security Policy"
+permalink: /security/
+
 # Security Policy
 
 ## Reaching out to me
