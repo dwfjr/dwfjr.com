@@ -4,13 +4,13 @@
 
 ## Introduction
 
-Welcome! If you here then you've likely either met me in person, or someone who has recommended you reach out to me. If neither of their apply to you then let me say:\
+Welcome! If you're here then you've either likely either met me in person, or someone has recommended you reach out to me. If neither of these apply to you then let me say:\
 Howdy! It's nice to e-meet you!\
-My name is Dennis Fischer Jr. and I am fascinated by technology. Most of all I enjoy helping others (you) find the best use of technology in life, in a way that is best fit to let you use it to its peak potential, increase your productivity, and most of all, protect your independence and freedom, not only from other people but from technology and its addicting design itself. It's an endless journey, one I still feel I'm just starting out on, but the thrill of helping others find the path is quite enjoyable.
+My name is Dennis Fischer Jr. and I am fascinated by technology. Most of all, I enjoy helping others (you) find the best use of technology in life, in a way that is best fit to let you use it to its peak potential, increase your productivity, and most of all, protect your independence and freedom, not only from other people but from technology and its addicting design itself. It's an endless journey, one I still feel I'm just starting out on, but the thrill of helping others find the path is quite enjoyable.
 
 ## Where are you?
 
-You are at the landing page for my site, my hope is that this will change and grow quickly as I build out what I am doing here, for now it's simple and to the point as I'm learning about what you, my guest, need; and how I can best serve you. Below you will find links to each of the active pages until I can build a normal menu (a trickier task than I imagined).\
+You are at the landing page for my site. My hope is that it will change and grow quickly as I build out what I am doing here. For now, it's simple and to the point as I'm learning about what you, my guest, needs; and how I can best serve you. Below you will find links to each of the active pages until I can build a normal menu (a trickier task than I imagined).\
 Please do not hesitate to reach out with questions or suggestions, more information can currently be found on the [security](https://github.com/dwfjr/dwfjr.com/security/policy) page or the [contact](/contact) page.
 
 ## Additional Resources
