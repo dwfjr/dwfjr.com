@@ -4,7 +4,7 @@ title: Contact Me
 
 # Contact Information
 
-My primary contact method at this time is the Email listed below.\
+My primary contact method at this time is the Email listed below.
 
 I currently will work to respond to any email requests within 72 hours.\
 Thank you!

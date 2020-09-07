@@ -31,6 +31,6 @@ Please do not hesitate to reach out with questions or suggestions, more informat
 - [Change Log](/pages/changelog)
 - [Security Policy](https://github.com/dwfjr/dwfjr.com/security/policy)
 ### External
-- [My LinkdIn](https://www.linkedin.com/in/fischerdennisjr/)
+- [My LinkdIn](https://www.linkedin.com/in/fischerdennisjr/) \
 These are sites that I use as references and information sources.
 - [Privacy Tools](https://www.privacytools.io/)

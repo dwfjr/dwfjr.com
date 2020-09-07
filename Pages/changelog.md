@@ -6,16 +6,19 @@ title: Change Log
 
 ## 0.0.2
 ### Added Change Log Page
-- Initial population of change log
+- Initial population of change log.
 
 ### Index
 - Updated grammar and structure of main page.
-- Added additional information to Resources and Links section
+- Added additional information to Resources and Links section.
 
 ### TI&F
-- Relocate to main directory
-- Lay out outline for content
+- Relocate to main directory.
+- Lay out outline for content.
+
+### About
+- Populate about page.
 
 ### Misc.
 - Update YAML Title of most pages.
-- Create Assets folder for standalone assets
+- Create Assets folder for standalone assets.

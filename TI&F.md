@@ -7,4 +7,5 @@ title: "Technological Independence and Freedom"
 
 ## For Individuals
 
+
 ## For Businesses
