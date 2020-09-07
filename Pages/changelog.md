@@ -22,3 +22,7 @@ title: Change Log
 ### Misc.
 - Update YAML Title of most pages.
 - Create Assets folder for standalone assets.
+
+### 404
+- Create 404 page
+- Link Image
