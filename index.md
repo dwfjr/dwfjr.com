@@ -16,7 +16,7 @@ It's an endless journey, one I still feel I'm just starting out on, but the thri
 
 ## Where I stand
 
-I want to help you find and create your technological independence and freedom, and that starts right here at www.dwfjr.com.\
+I want to help you find and create your technological independence and freedom, and that starts right here at www.dwfjr.com. \
 This is my personal website that contains everything from resources I think would be helpful tools to you, how to get in touch with me, and my background and digital resume.\
 You, are my guest, and my goal is to treat you like a guest. With this in mind I want to treat your data the same way I would want mine to be treated. That's why I'm building this website this way, from scratch and publicly on GitHub, there are no built in analytical tools like Google that many hosting platforms like WordPress have built in. This entire site is a tool for you to find new information, and reach out to me if you have questions or are interested in learning more about how I can help you build your own tailored digital lifestyle.
 
