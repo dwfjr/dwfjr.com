@@ -11,6 +11,7 @@ title: Change Log
 ### Index
 - Updated grammar and structure of main page.
 - Added additional information to Resources and Links section.
+- Added priority links section.
 
 ### TI&F
 - Relocate to main directory.
@@ -19,10 +20,13 @@ title: Change Log
 ### About
 - Populate about page.
 
+### Top Links Archive
+- Create the Top Links Archive to log all links posted in the Top Links section.
+
 ### Misc.
 - Update YAML Title of most pages.
 - Create Assets folder for standalone assets.
 
 ### 404
-- Create 404 page
-- Link Image
+- Create 404 page.
+- Link Image.
