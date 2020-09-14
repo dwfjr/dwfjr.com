@@ -3,7 +3,8 @@ title: Change Log
 ---
 
 [Home](../)
-## This page contains a list of changes tracked from the point of creation for each version of the website.\
+## List of changes tracked from the point of creation for each version of the website.
+This page was added in ver 0.0.2 and tracks all changes from that point forward.
 
 ## 0.0.2
 Published 9-11-2020
