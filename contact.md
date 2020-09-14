@@ -3,6 +3,7 @@ title: Contact Me
 ---
 
 [Home](../)
+
 # Contact Information
 
 My primary contact method at this time is the Email listed below.

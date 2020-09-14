@@ -6,9 +6,9 @@ title: Home
 Please pardon the dust as you are exploring version 0.0.2 of the site! Many changes will come as time passes.
 
 ## Top Links
-Current priority links such as News and other time sensitive information.
-1. [ProtonVPN 2020 Server Poll](https://protonvpn.com/blog/servers-poll-2020/?utm_campaign=ww-en-2c-generic-coms_email-monthly_newsletter&utm_source=proton_users&utm_medium=email&utm_content=2020_-_august) \
-Help decided where ProtonVPN installs their next server.
+Current priority links such as News and other time sensitive information. \
+1. No Top Links currently available.
+Top Links [Archive](/Pages/TopLinks-Archive)
 
 ## Introduction
 
