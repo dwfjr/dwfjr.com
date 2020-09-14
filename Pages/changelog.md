@@ -2,6 +2,7 @@
 title: Change Log
 ---
 
+[Home](www.dwfjr.com)
 ## This page contains a list of changes tracked from the point of creation for each version of the website.\
 
 ## 0.0.2
@@ -29,6 +30,7 @@ Published 9-11-2020
 - Create Assets folder for standalone assets.
 - Switch any spaces from _ to - in multi work names
 - Attempt to create header menu per [this stackoverflow thread](https://stackoverflow.com/questions/13266369/how-to-change-the-default-order-pages-in-jekyll/33983971#33983971) by adding information to [config.yml]
+- Add home button to currently linked pages
 
 ### 404
 - Create 404 page.
