@@ -2,13 +2,13 @@
 title: Home
 ---
 
-# I want to help you, stoke your curiosity, to build your own freedom in technology. And to give you the tools to introduce your Family and Friends to these concepts.
+# I want to help you, stoke your curiosity, to build your own freedom in technology. And to give you the tools to introduce your Family and Friends to these concepts.\
 
-### Please pardon the dust as you are exploring version 0.0.2 of the site! Many changes will come as time passes.
+### Please pardon the dust as you are exploring version 0.0.2 of the site! Many changes will come as time passes.\
 
 ## Top Links
 Current priority links such as News and other time sensitive information.
-1. [ProtonVPN 2020 Server Poll](https://protonvpn.com/blog/servers-poll-2020/?utm_campaign=ww-en-2c-generic-coms_email-monthly_newsletter&utm_source=proton_users&utm_medium=email&utm_content=2020_-_august)
+1. [ProtonVPN 2020 Server Poll](https://protonvpn.com/blog/servers-poll-2020/?utm_campaign=ww-en-2c-generic-coms_email-monthly_newsletter&utm_source=proton_users&utm_medium=email&utm_content=2020_-_august)\
 Help decided where ProtonVPN installs their next server.
 
 ## Introduction
@@ -33,8 +33,8 @@ Please do not hesitate to reach out with questions or suggestions, more informat
 ## Resources and Links
 ### Internal
 - [Contact Information](/contact)
-- [Change Log](/pages/changelog)
-- [Security Policy](https://github.com/dwfjr/dwfjr.com/security/policy)
+- [Change Log](/Pages/changelog)
+- [Security Policy](https://github.com/dwfjr/dwfjr.com/security/policy)\
 ### External
 - [My LinkdIn](https://www.linkedin.com/in/fischerdennisjr/) \
 These are sites that I use as references and information sources.
