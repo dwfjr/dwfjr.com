@@ -6,8 +6,9 @@ title: Home
 Please pardon the dust as you are exploring version 0.0.2 of the site! Many changes will come as time passes.
 
 ## Top Links
-Current priority links such as News and other time sensitive information. \
-1. No Top Links currently available.
+Current priority links such as News and other time sensitive information.
+1. No Top Links currently available. \
+
 Top Links [Archive](/Pages/TopLinks-Archive)
 
 ## Introduction
