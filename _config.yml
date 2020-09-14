@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+header_pages:
+  - index.md
+  - contact.md
