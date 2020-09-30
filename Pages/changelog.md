@@ -7,6 +7,17 @@ title: Change Log
 ## List of changes tracked from the point of creation for each version of the website.
 This page was added in ver 0.0.2 and tracks all changes from that point forward.
 
+## 0.0.3
+Published
+
+### Index
+- Update resources and links section
+
+### Solutions
+- Create solutions page (this may merge into the blog at a later date)
+
+----------
+
 ## 0.0.2
 Published 9-11-2020
 ### Added Change Log Page
