@@ -11,6 +11,7 @@ This page was added in ver 0.0.2 and tracks all changes from that point forward.
 Published
 
 ### Index
+- Update patch number
 - Update resources and links section
 
 ### Solutions
