@@ -8,7 +8,7 @@ title: Contact Me
 
 My primary contact method at this time is the Email listed below.
 
-I currently will work to respond to any email requests within 72 hours.\
+I currently will work to respond to any email requests within 72 hours. <br>
 Thank you!
 
 ### Email

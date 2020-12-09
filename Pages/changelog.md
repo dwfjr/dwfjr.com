@@ -16,6 +16,10 @@ Published
 ### Solutions
 - Create solutions page (this may merge into the blog at a later date)
 
+### Misc.
+- Correct page break formatting across pages after tinkering
+- Delete placeholder file from Assets folder
+
 ----------
 
 ## 0.0.2
